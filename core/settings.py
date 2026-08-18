@@ -47,7 +47,6 @@ INSTALLED_APPS = [
     'calendario',
     'contas',
     'materiais',
-    'materiais',
     'painel',
     'simulados',
 ]
