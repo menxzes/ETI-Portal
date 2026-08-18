@@ -15,7 +15,7 @@ from pathlib import Path
 MEUS IMPORTS
 """
 import os
-import dj_databse_url
+import dj_database_url
 from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
